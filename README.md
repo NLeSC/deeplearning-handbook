@@ -1,2 +1,1 @@
-# deeplearning-handbook
-Deeplearning Handbook
+# Deeplearning Handbook
