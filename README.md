@@ -1,5 +1,7 @@
 # Deeplearning Handbook
 
-Read this book on GitBook here: https://www.gitbook.com/book/nlesc/deeplearning-handbook
+Read this book online on GitBook here: https://www.gitbook.com/book/nlesc/deeplearning-handbook/content/
 
-or view and edit on GitHub here: https://github.com/NLeSC/deeplearning-handbook
+Download this book as a pdf here: https://www.gitbook.com/download/pdf/book/nlesc/deeplearning-handbook
+
+View and edit this book on GitHub here: https://github.com/NLeSC/deeplearning-handbook
