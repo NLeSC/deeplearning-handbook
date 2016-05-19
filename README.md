@@ -9,6 +9,5 @@ View and edit this book on GitHub here: https://github.com/NLeSC/deeplearning-ha
 
 # Why we wrote this Handbook
 
-Deep learning is a promising approach for classifying patterns in data. In contrast to conventional single hidden layer neural networks the many hidden layers in deep learning makes that the algorithm is able to learn more complex and more abstract signal patterns (features). 
-
+Deep learning is a promising approach for classifying patterns in data. In contrast to conventional single hidden layer neural networks the many hidden layers in deep learning makes that the algorithm is able to learn more complex and more abstract signal patterns (features). In this book we collect our knowledge about deep learning.
 
