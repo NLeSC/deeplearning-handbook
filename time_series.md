@@ -4,7 +4,7 @@ Most attention in the literature and in the news has gone to deep learning in im
 
 Building a deep learning algorithm requires specific expertise with neural networks and high-performance computing, which prohibit uptake by domain scientists.  Further, domain scientists may be skeptical about using deep learning because of its black box nature. The aim of this project is to develop a generic tool for deep learning that is useful for time series classification in science.
 
-## User cases 
+## 1 User cases 
 
 **Life sciences:**
 - Wearable sensors, e.g. accelerometer
@@ -14,7 +14,7 @@ Building a deep learning algorithm requires specific expertise with neural netwo
 **Astronomy:**
 - Light curves
 
-## Trends in literature
+## 2 Trends in literature
 * In our first quick literature search we identified 20 documents out of which we reviewed 10
 * All publications state that DL with RNN for time series is promising
 * No publication comes with open access code, classifier or data
@@ -23,7 +23,7 @@ Building a deep learning algorithm requires specific expertise with neural netwo
 * Lack of critical discussion about deep learning, people tend to focus on selling the novelties, while little effort is done to understand when and why deep learning may not work for time series
 * It is unclear whether there is domain science success with deep learning for time series
 
-### Paper review summaries
+### 2.1 Paper review summaries
 
 **Author:** Abdel-Hamid
 **Title:** Exploring Convolutional Neural Network Structures and Optimization Techniques for Speech Recognition
@@ -99,7 +99,7 @@ Year: 2015
 
 
 
-## Tool requirements
+## 3 Tool requirements
 
 * Easily accessible for scientists with no expertise in deep learning or high performance computing
 * Gives the scientist the opportunity to embed their scientific models, such that deep learning is more than a black box to them. For example, the scientific model is the starting point for the training process
@@ -117,7 +117,7 @@ Year: 2015
   * Guidance on how to link ‘new’ deep learning features to biological/physical phenomena and theory
 * Early stage interaction with domain scientists to ensure long term uptake
 
-## Useful links:
+## 4 Useful links:
 * http://deeplearning.net/reading-list/tutorials/
 * http://deeplearning.net/software/theano/
 * http://www.h2o.ai/
