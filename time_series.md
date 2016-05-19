@@ -13,7 +13,6 @@ Building a deep learning algorithm requires specific expertise with neural netwo
 * Lack of critical discussion about DL
 * Unclear there is domain science success
 
-
 ## User examples 
 
 ## Summary of requirements 
