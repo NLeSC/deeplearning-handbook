@@ -64,14 +64,31 @@ Computing language: Matlab, Octave, Lush
 Input:  EEG
 Pattern or event being classified: Forecasting epileptic seizures
 
-Author: 
-Title:
-Year:
-Summary: 
-Computing language:
+Author: Yang
+Title: Deep CNN on multichannel time series for human activity recognition. Claims to be the first to try CNN on activity data
+Year: ?
+Summary: Gesture recognition and activity type recognition based on multiple data streams. Paper describes clearly how CNN can be applied on time series. Major weakness is that they train and evaluate in the same three subjects. Code not released, unclear how representative classification challenge is. It seems that they use some form of RNN by linking weights with the weights of previous time steps, but this is not discussed or clarified
+Computing language: Matlab
 Input: 
-Pattern or event being classified:
+Pattern or event being classified: Gestures and activity types
 
+
+Author: Zen
+Title: Deep learning in speech synthesis
+Year: 2013
+Summary: slides of a google talk on speech classification. good educational, e.g. slide 9 is summary of what makes DNN different from old NN (GPU, more data, unsupervised pretraining) and slide 18 as well. Slides give the impression that DNN is not necesarily the best yet (seems that they considered DNN as a potential winner for the future). Reference list at the back is potentially useful. Although they recommend feature free approach, a number of dataset decision are made which require expertise with the data (e.g. mel-cepstrum and removal of silence periods)
+Computing language: ?
+Input: not applicable
+Pattern or event being classified: not applicable
+
+
+Author: Zheng
+Title: Convolutional Nonlinear Neighbourhood Components Analysis for Time Series Classification
+Year: 2015
+Summary: Proposes enhancement of time series classification by using convolutional neural networks to train distance metrics for Nonlinear neighborhood components analysis (sounds like 1NN) classification. Although the idea might be novel, the evaluation is not thorough and it is unclear whether the complexity of the method is truly worth the effort. Overall the papers lacks clarification on a number of the methods it uses. The decisions made in the evaluation are not motivated which creates the appearance that results were selected to fit the hypothesis (e.g. in the selection of the subset). Claim of covering 90% of the data in the world is ridiculous. No attempt made to understand measurement error.
+Computing language:
+Input: A variety of benchmark time series from the UCR time series repository
+Pattern or event being classified: Classifications from the UCR time series repository
 
 ## User examples 
 
