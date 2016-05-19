@@ -13,6 +13,26 @@ Building a deep learning algorithm requires specific expertise with neural netwo
 * Lack of critical discussion about DL
 * Unclear there is domain science success
 
+### Brief summaries of papers
+
+Author: Abdel-Hamid
+Title: Exploring Convolutional Neural Network Structures and Optimization Techniques for Speech Recognition
+Year: 2013
+Summary: Quite technical 4 page report of a specific project, possibly not ideal for learning about the techniques. The TIMIT training data they use may be an interesting test-case.
+Computing lnguage: not specified
+Input: Voice data
+Pattern or event being classified: Speaker?
+
+Author: 
+Title:
+Year:
+Summary: 
+Computing language:
+Input: 
+Pattern or event being classified:
+
+
+
 ## User examples 
 
 ## Summary of requirements 
