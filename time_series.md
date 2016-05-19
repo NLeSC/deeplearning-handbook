@@ -5,15 +5,15 @@ Most attention in the literature and in the news has gone to deep learning in im
 Building a deep learning algorithm requires specific expertise with neural networks and high-performance computing, which prohibit uptake by domain scientists.  Further, domain scientists may be skeptical about using deep learning because of its black box nature. The aim of this project is to develop a generic tool for deep learning that is useful for time series classification in science.
 
 ## Trends in literature: 
-* 20 documents identified, 10 were reviewed
-* All state: DL with RNN for time series is promising
-* Nobody releases their code or models
-* No attempts made to cross-validate models and re-use model architectures between research groups: undermines standardised comparisons and level of evidence
-* Proof of validity often limited to convenient and small datasets
-* Lack of critical discussion about DL
-* Unclear there is domain science success
+* In our first quick literature search we identified 20 documents out of which we reviewed 10
+* All publications state that DL with RNN for time series is promising
+* No publication comes with open access code, classifier or data
+* No attempts have been made to cross-validate models and re-use model architectures between research groups which undermines standardised comparisons and level of evidence
+* Proof of validity is often limited to convenient and small datasets
+* Lack of critical discussion about deep learning, people tend to focus on selling the novelties, while little effort is done to understand when and why deep learning may not work for time series
+* It is unclear whether there is domain science success with deep learning for time series
 
-### Brief summaries of papers
+### Brief summaries of specific papers
 
 Author: Abdel-Hamid
 Title: Exploring Convolutional Neural Network Structures and Optimization Techniques for Speech Recognition
@@ -37,8 +37,32 @@ Title: A review of unsupervised feature learning and deep learning for time-seri
 Year: 2014
 Summary: Overview of several time series sub fields and for each a brief discussion of methods used and an indication of state-of-the-art. See Table 2 at page 40 for a good summary.
 Computing language: ?
-Input: Several
-Pattern or event being classified: Several
+Input/patterns or events being classified: the manuscript comes with several user-case examples with a variety of data types as input
+
+
+Author: Lipton
+Title: A critical review of recurrent neural networks for sequence learning
+Year: 2015
+Summary: Review of how RNN's work. Starte of the art are: LSTM (memory inside each node) and BRNN (connecting time steps, but not suitable for online data) possibly extended with NTM (good for more complex tasks like sorting data).
+Computing language: ?
+Input: Mostly word sequences
+Pattern or event being classified:
+
+Author: Martinez
+Title: Learning Deep Physiological Models of Affect
+Year: 2013
+Summary: Reviews deep learning for time series, develops a model, and evaluates it. Code not released and algorithm only describe at a high level with no formulas or specifications of libraries. Sequantial Forward Feature Selection not clearly explained
+Computing language: Theano
+Input:  Physiological signals
+Pattern or event being classified: Affection (emotional state in response to playing a video game)
+
+Author: Mirowski
+Title: Comparing SVM and Convolutional networks for epileptic seizure prediction from intracranial EEG
+Year: 2008
+Summary: At first it seems that they are going to run CNN on raw data, but it later turns out that CNN is only applied to signal features. So, this is not really deep learning?
+Computing language: Matlab, Octave, Lush
+Input:  EEG
+Pattern or event being classified: Forecasting epileptic seizures
 
 Author: 
 Title:
@@ -48,13 +72,6 @@ Computing language:
 Input: 
 Pattern or event being classified:
 
-Author: 
-Title:
-Year:
-Summary: 
-Computing language:
-Input: 
-Pattern or event being classified:
 
 ## User examples 
 
