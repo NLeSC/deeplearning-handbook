@@ -13,28 +13,24 @@ Building a deep learning algorithm requires specific expertise with neural netwo
 * Lack of critical discussion about deep learning, people tend to focus on selling the novelties, while little effort is done to understand when and why deep learning may not work for time series
 * It is unclear whether there is domain science success with deep learning for time series
 
-### Brief summaries of specific papers
+### Paper review summaries
 
-| 0:0 |
-| -- |
-| 0:2 |
-
-| **Author:** Abdel-Hamid
+**Author:** Abdel-Hamid
 **Title:** Exploring Convolutional Neural Network Structures and Optimization Techniques for Speech Recognition
 **Year:** 2013
 **Summary:** Quite technical and difficult to read report. The TIMIT training data they use may be an interesting test-case.
 **Tools:** not specified
 **Input:** Voice data
-**Pattern or event being classified:** Speaker? |
-| -- |
-| **Author:** Busseti
+**Pattern or event being classified:** Speaker?
+
+**Author:** Busseti
 **Title:** Deep Learning for Time Series Modeling
 Year: 2012
 **Summary:** They demonstrate/conclude that it is better for the NN to find the non-linear relationships itself compared with 'hand-crafted' Fourier transform. No evidence found that anomaly filtering is worth the effort. RNN performs drastically better than feedforward network based on same complexity
 **Comments:** Unclear how features were identified and trained in the non-deep learning benchmark. In appendix C and on page 3 the authors state that hand-crafted data features outperform the automatically learned features
 **Tools:** ?
 **Input:**  Power consumption
-**Pattern or event being classified:** Power needs |
+**Pattern or event being classified:** Power needs
 
 **Author:** Langkvist
 **Title:** A review of unsupervised feature learning and deep learning for time-series modeling
