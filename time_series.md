@@ -4,7 +4,17 @@ Most attention in the literature and in the news has gone to deep learning in im
 
 Building a deep learning algorithm requires specific expertise with neural networks and high-performance computing, which prohibit uptake by domain scientists.  Further, domain scientists may be skeptical about using deep learning because of its black box nature. The aim of this project is to develop a generic tool for deep learning that is useful for time series classification in science.
 
-## Trends in literature: 
+## User cases 
+
+Life sciences:
+- Wearable sensors, e.g. accelerometer
+- EEG
+- EMG
+
+Astronomy:
+- Light curves
+
+## Trends in literature
 * In our first quick literature search we identified 20 documents out of which we reviewed 10
 * All publications state that DL with RNN for time series is promising
 * No publication comes with open access code, classifier or data
@@ -87,14 +97,13 @@ Year: 2015
 **Input:** A variety of benchmark time series from the UCR time series repository
 **Pattern or event being classified:** Classifications from the UCR time series repository
 
-## User examples 
 
-## Summary of requirements 
 
-* Easily accessible for scientists with no expertise in deep learning or HPC
+## Tool requirements
+
+* Easily accessible for scientists with no expertise in deep learning or high performance computing
 * Gives the scientist the opportunity to embed their scientific models, such that deep learning is more than a black box to them. For example, the scientific model is the starting point for the training process
 * Demonstrate that our tools are more accurate and/or more feasible than conventional approaches. 
-
 * Utilize state of the art deep learning techniques
 * Flexible to handle range of time series types/dimensions
 * Visualization tool:
