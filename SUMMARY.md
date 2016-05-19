@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * Requirements for Deep learning on Time series
-* Time series
+* [Time series](time_series.md)
 
