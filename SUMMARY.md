@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Time series](time_series.md)
-* Images
+* [Images](images.md)
 
