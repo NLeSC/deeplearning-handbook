@@ -28,6 +28,12 @@ Building a deep learning algorithm requires specific expertise with neural netwo
   * Label and classification check relative to raw data
   * Visualise new DL features relative to raw data
 * Ability to output new DL features
+* Accessible to domain scientists
+* Publication in domain science journal, with:
+  * Demonstration of validity in representative dataset and based on multiple performance metrics
+  * Clear guidance on expected limitations of the classifier
+  * Guidance on how to link ‘new’ deep learning features to biological/physical phenomena and theory
+* Early stage interaction with domain scientists to ensure long term uptake
 
 ## Useful links:
 * http://deeplearning.net/reading-list/tutorials/
