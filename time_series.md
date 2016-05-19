@@ -23,6 +23,23 @@ Computing lnguage: not specified
 Input: Voice data
 Pattern or event being classified: Speaker?
 
+Author: Busseti
+Title: Deep Learning for Time Series Modeling
+Year: 2012
+Summary: They demonstrate/conclude that it is better for the NN to find the non-linear relationships itself compared with 'hand-crafted' Fourier transform. No evidence found that anomaly filtering is worth the effort. RNN performs drastically better than feedforward network based on same complexity
+Comments: Unclear how features were identified and trained in the non-deep learning benchmark. In appendix C and on page 3 the authors state that hand-crafted data features outperform the automatically learned features
+Computing language: ?
+Input:  Power consumption
+Pattern or event being classified: Power needs
+
+Author: Langkvist
+Title: A review of unsupervised feature learning and deep learning for time-series modeling
+Year: 2014
+Summary: Overview of several time series sub fields and for each a brief discussion of methods used and an indication of state-of-the-art. See Table 2 at page 40 for a good summary.
+Computing language: ?
+Input: Several
+Pattern or event being classified: Several
+
 Author: 
 Title:
 Year:
@@ -31,7 +48,13 @@ Computing language:
 Input: 
 Pattern or event being classified:
 
-
+Author: 
+Title:
+Year:
+Summary: 
+Computing language:
+Input: 
+Pattern or event being classified:
 
 ## User examples 
 
