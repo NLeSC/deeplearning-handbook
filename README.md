@@ -13,7 +13,7 @@ Deep learning is a promising approach for classifying patterns in data. In contr
 
 Most attention in the literature and in the news has gone to deep learning in image processing, e.g. video analyses, while relatively little attention is given to the potential of deep learning for time series analyses. 
 
-Building a deep learning algorithm requires expertise and in order to train deep learning algorithms complementary expertise in high-performance computing may be essential.  Therefore, deep learning is not easily accessible for the majority of scientists.  Further, scientists may be skeptical about using deep learning because of its black box nature. The aim of this project is to develop a generic tool for deep learning that is useful for time series classification in science and is easy to use. 
+Building a deep learning algorithm requires specific expertise with neural networks and high-performance computing, which prohibit uptake by domain scientists.  Further, domain scientists may be skeptical about using deep learning because of its black box nature. The aim of this project is to develop a generic tool for deep learning that is useful for time series classification in science.
 
 
 ## Key objectives are: 
