@@ -5,15 +5,11 @@ Most attention in the literature and in the news has gone to deep learning in im
 Building a deep learning algorithm requires specific expertise with neural networks and high-performance computing, which prohibit uptake by domain scientists.  Further, domain scientists may be skeptical about using deep learning because of its black box nature. The aim of this project is to develop a generic tool for deep learning that is useful for time series classification in science.
 
 
+## Trends in literature: 
 
+## User examples 
 
-## Key objectives are: 
-
-* Map out latest trends in deep learning for time series based on scanning the literature and searching for online tools
-* Identify test case/working example
-* Develop a tool to classify patterns in time series using deep learning that is: 
-
-## Key requirements: 
+## Summary of requirements 
 
 o Easily accessible for scientists with no expertise in deep learning or HPC 
 o Gives the scientist the opportunity to embed their scientific models, such that deep learning is more than a black box to them. For example, the scientific model is the starting point for the training process 
