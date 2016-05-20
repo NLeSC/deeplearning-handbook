@@ -18,10 +18,8 @@
 | **Tools:** | not specified |
 | **Input:** | Voice data |
 | **Pattern or event being classified:** | Speaker? |
-
-
-| **Author:** | Busseti |
-| -- | -- |
+| - | - |
+| **Author:** | **Busseti** |
 | **Title:** | Deep Learning for Time Series Modeling |
 | **Year:** | 2012 |
 | **Summary:** | They demonstrate/conclude that it is better for the NN to find the non-linear relationships itself compared with 'hand-crafted' Fourier transform. No evidence found that anomaly filtering is worth the effort. RNN performs drastically better than feedforward network based on same complexity |
@@ -29,43 +27,38 @@
 | **Tools:**| ? |
 | **Input:**|  Power consumption |
 | **Pattern or event being classified:**| Power needs |
-
-| **Author:** Langkvist |
-| -- | -- |
-| **Title:** A review of unsupervised feature learning and deep learning for time-series modeling
-Year: 2014 |
-| **Summary:** Overview of several time series sub fields and for each a brief discussion of methods used and an indication of state-of-the-art. See Table 2 at page 40 for a good summary.
-| **Tools:** ? |
+| - | - |
+| **Author:** | **Langkvist** |
+| **Title:** | A review of unsupervised feature learning and deep learning for time-series modeling
+| Year: 2014 |
+| **Summary:** | Overview of several time series sub fields and for each a brief discussion of methods used and an indication of state-of-the-art. See Table 2 at page 40 for a good summary.
+| **Tools:** | ? |
 | **Input/patterns or events being classified:** the manuscript comes with several user-case examples with a variety of data types as input |
-
-| **Author:** Lipton |
-| -- | -- |
+| - | - |
+| **Author:**| **Lipton** |
 | **Title:**| A critical review of recurrent neural networks for sequence learning |
 | **Year:**| 2015 |
 | **Summary:**| Review of how RNN's work. Starte of the art are: LSTM (memory inside each node) and BRNN (connecting time steps, but not suitable for online data) possibly extended with NTM (good for more complex tasks like sorting data). |
 | **Tools:**| ? |
 | **Input:**| Mostly word sequences |
 | **Pattern or event being classified:**| ? |
-
-| **Author:** | Martinez |
-| -- | -- |
+| - | - |
+| **Author:** | **Martinez** |
 | **Title:** | Learning Deep Physiological Models of Affect |
 | **Year:** | 2013 |
 | **Summary:**| Reviews deep learning for time series, develops a model, and evaluates it. Code not released and algorithm only describe at a high level with no formulas or specifications of libraries. Sequantial Forward Feature Selection not clearly explained |
 | **Tools:**| Theano |
 | **Input:**|  Physiological signals |
 | **Pattern or event being classified:**| Affection (emotional state in response to playing a video game) |
-
-
-| **Author:**| Mirowski |
-| -- | -- |
+| - | - |
+| **Author:**| **Mirowski** |
 | **Title:**| Comparing SVM and Convolutional networks for epileptic seizure prediction from intracranial EEG
 | **Year:**| 2008 |
 | **Summary:**| At first it seems that they are going to run CNN on raw data, but it later turns out that CNN is only applied to signal features. So, this is not really deep learning? |
 | **Tools:**| Matlab, Octave, Lush |
 | **Input:**|  EEG |
 | **Pattern or event being classified:**| Forecasting epileptic seizures |
-
+| - | - |
 **Author:** Yang
 **Title:** Deep CNN on multichannel time series for human activity recognition. Claims to be the first to try CNN on activity data
 **Year:** ?
@@ -73,7 +66,7 @@ Year: 2014 |
 **Tools:** Matlab
 **Input:** ? 
 **Pattern or event being classified:** Gestures and activity types
-
+| - | - |
 **Author:** Zen
 **Title:** Deep learning in speech synthesis
 **Year:** 2013
@@ -81,7 +74,7 @@ Year: 2014 |
 **Tools:** ?
 **Input:** not applicable
 **Pattern or event being classified:** not applicable
-
+| - | - |
 **Author:** Zheng
 **Tools:** Convolutional Nonlinear Neighbourhood Components Analysis for Time Series Classification
 Year: 2015
