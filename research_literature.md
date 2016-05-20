@@ -47,15 +47,18 @@ Year: 2014 |
 | **Input:**| Mostly word sequences |
 | **Pattern or event being classified:**| ? |
 
-| **Author:** Martinez |
-| **Title:** Learning Deep Physiological Models of Affect |
-| **Year:** 2013 |
+| **Author:** | Martinez |
+| -- | -- |
+| **Title:** | Learning Deep Physiological Models of Affect |
+| **Year:** | 2013 |
 | **Summary:**| Reviews deep learning for time series, develops a model, and evaluates it. Code not released and algorithm only describe at a high level with no formulas or specifications of libraries. Sequantial Forward Feature Selection not clearly explained |
 | **Tools:**| Theano |
 | **Input:**|  Physiological signals |
 | **Pattern or event being classified:**| Affection (emotional state in response to playing a video game) |
 
+
 | **Author:**| Mirowski |
+| -- | -- |
 | **Title:**| Comparing SVM and Convolutional networks for epileptic seizure prediction from intracranial EEG
 | **Year:**| 2008 |
 | **Summary:**| At first it seems that they are going to run CNN on raw data, but it later turns out that CNN is only applied to signal features. So, this is not really deep learning? |
