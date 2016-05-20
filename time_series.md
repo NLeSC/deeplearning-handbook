@@ -6,15 +6,7 @@ Building a deep learning algorithm requires specific expertise with neural netwo
 
 
 
-## User cases 
 
-**Life sciences:**
-- Wearable sensors, e.g. accelerometer
-- EEG
-- EMG
-
-**Astronomy:**
-- Light curves
 
 ## Trends in literature
 * In our first quick literature search we identified 20 documents out of which we reviewed 10
