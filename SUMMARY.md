@@ -5,6 +5,5 @@
    * [User cases](user_cases.md)
    * [Research literature](research_literature.md)
    * [List of requirements](list_of_requirements.md)
-   * [Online material](online_material.md)
 * [Images](images.md)
 
