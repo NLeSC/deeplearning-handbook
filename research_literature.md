@@ -23,8 +23,8 @@
 | **Author:** | Busseti |
 | -- | -- |
 | **Title:** | Deep Learning for Time Series Modeling |
-| Year: 2012 |
-| **Summary:** They demonstrate/conclude that it is better for the NN to find the non-linear relationships itself compared with 'hand-crafted' Fourier transform. No evidence found that anomaly filtering is worth the effort. RNN performs drastically better than feedforward network based on same complexity |
+| **Year:** | 2012 |
+| **Summary:** | They demonstrate/conclude that it is better for the NN to find the non-linear relationships itself compared with 'hand-crafted' Fourier transform. No evidence found that anomaly filtering is worth the effort. RNN performs drastically better than feedforward network based on same complexity |
 | **Comments:**| Unclear how features were identified and trained in the non-deep learning benchmark. In appendix C and on page 3 the authors state that hand-crafted data features outperform the automatically learned features |
 | **Tools:**| ? |
 | **Input:**|  Power consumption |
