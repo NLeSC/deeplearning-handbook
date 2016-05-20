@@ -10,13 +10,14 @@
 
 ## Paper review summaries
 
-**Author:** Abdel-Hamid
-**Title:** Exploring Convolutional Neural Network Structures and Optimization Techniques for Speech Recognition
-**Year:** 2013
-**Summary:** Quite technical and difficult to read report. The TIMIT training data they use may be an interesting test-case.
-**Tools:** not specified
-**Input:** Voice data
-**Pattern or event being classified:** Speaker?
+| **Author:** | Abdel-Hamid |
+| -- | -- |
+| **Title:** | Exploring Convolutional Neural Network Structures and Optimization Techniques for Speech Recognition |
+| **Year:** | 2013 |
+| **Summary:** | Quite technical and difficult to read report. The TIMIT training data they use may be an interesting test-case. |
+| **Tools:** | not specified |
+| **Input:** | Voice data |
+| **Pattern or event being classified:** | Speaker? |
 
 **Author:** Busseti
 **Title:** Deep Learning for Time Series Modeling
